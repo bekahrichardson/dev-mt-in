@@ -34,3 +34,22 @@ h6 {
   font-size: 16.8 px;
   font-color: #232323;
 }
+
+.titleContainer {
+  height: 15%;
+  width:100%;
+  color: white;
+}
+
+.mainContentContainer {
+  height: 70%;
+  width:100%;
+  color: white;
+}
+
+
+.bottomNavigationContainer {
+  height: 15%;
+  width:100%;
+  color: white;
+}
