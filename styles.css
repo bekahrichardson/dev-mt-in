@@ -1,4 +1,4 @@
-//styles file
+
 h1 {
   font: Lora-Regular;
   font-size: 38.4 px;
@@ -35,6 +35,10 @@ h6 {
   font-color: #232323;
 }
 
+p {
+
+}
+
 .titleContainer {
   height: 15%;
   width:100%;
@@ -50,11 +54,13 @@ h6 {
 }
 
 .submitButtons {
-
+  height:
+  width:
 }
 
 .initialViewImage {
-  
+  height:
+  width:
 }
 
 .bottomNavigationContainer {
@@ -66,9 +72,13 @@ h6 {
 }
 
 .searchButtonContainer{
-
+  height:
+  width:
 }
 
 .searchButtonContainer2 {
-
+  height:
+  width:
+  background-color: #74FDF2;
+  font-color: #D7D7D7;
 }
