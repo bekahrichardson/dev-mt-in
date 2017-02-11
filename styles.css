@@ -39,6 +39,8 @@ h6 {
   height: 15%;
   width:100%;
   color: white;
+  border-bottom: 3px;
+  border-color: #EEEDED;
 }
 
 .mainContentContainer {
@@ -52,6 +54,8 @@ h6 {
   height: 15%;
   width:100%;
   color: white;
+  border-top: 3 px;
+  border-color: #D7D7D7;
 }
 
 .searchButtonContainer{
@@ -59,5 +63,5 @@ h6 {
 }
 
 .searchButtonContainer2 {
-  
+
 }
