@@ -36,7 +36,9 @@ h6 {
 }
 
 p {
-
+  font: Lora-Regular;
+  font-size: 19.8 px;
+  font-color: #000000;
 }
 
 .titleContainer {
