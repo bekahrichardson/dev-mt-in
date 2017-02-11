@@ -66,24 +66,23 @@ p {
   border-color: #EEEDED;
 }
 
-.mainContentContainer {
+#mainContentContainer {
   height: 70%;
   width:100%;
   color: white;
 }
 
 .submitButtons {
-  height:
-  width:
+  height: 70;
+  width: 50%;
 }
 
 .initialViewImage {
-  height:
-  width:
+  height: 70%;
+  width: 50%;
 }
 
 .footer {
-  height: 15%;
   width:100%;
   margin: 10px;
   color: white;
