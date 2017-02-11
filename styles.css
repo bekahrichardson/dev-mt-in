@@ -39,6 +39,17 @@ p {
   font: Lora-Regular;
   font-size: 19.8 px;
   font-color: #000000;
+  text-align: center;
+}
+
+.text {
+  color: #EEEDED;
+  text-align: center;
+}
+
+.submit {
+  color: #979797;
+  background-color: #00FFE9;
 }
 
 .titleContainer {
