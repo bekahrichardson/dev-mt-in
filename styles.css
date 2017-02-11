@@ -63,9 +63,10 @@ p {
   width:
 }
 
-.bottomNavigationContainer {
+.footer {
   height: 15%;
   width:100%;
+  margin: 10px;
   color: white;
   border-top: 3 px;
   border-color: #D7D7D7;
