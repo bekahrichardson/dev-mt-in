@@ -1,1 +1,36 @@
 //styles file
+h1 {
+  font: Lora-Regular;
+  font-size: 38.4 px;
+  font-color: #272727;
+}
+
+h2 {
+  font: Lora-Regular;
+  font-size: 28 px;
+  font-color: #000000;
+}
+
+h3 {
+  font: Lora-Regular;
+  font-size: 28 px;
+  font-color: #232323;
+}
+
+h4 {
+  font: Lora-Regular;
+  font-size: 19.8 px;
+  font-color: #272727;
+}
+
+h5 {
+  font: Lora-Regular;
+  font-size: 16.8 px;
+  font-color: #FFFFFF;
+}
+
+h6 {
+  font: Lora-Regular;
+  font-size: 16.8 px;
+  font-color: #232323;
+}
